@@ -1,0 +1,36 @@
+:root {
+	/*  Primary Colour */
+	--clr-red: hsl(0, 78%, 62%);
+	--clr-cyan: hsl(180, 62%, 55%);
+	--clr-orange: hsl(34, 97%, 64%);
+	--clr-blue: hsl(212, 86%, 64%);
+
+	/* Neutral Colour */
+	--clr-neutral-900: hsl(234, 12%, 34%);
+	--clr-neutral-400: hsl(212, 6%, 44%);
+	--clr-neutral-100: hsl(0, 0%, 100%);
+}
+
+@theme {
+	/*  Primary Colour */
+	--color-primary-red: hsl(0, 78%, 62%);
+	--color-primary-cyan: hsl(180, 62%, 55%);
+	--color-primary-orange: hsl(34, 97%, 64%);
+	--color-primary-blue: hsl(212, 86%, 64%);
+	--color-primary-snow: #fafafa;
+
+	/* Neutral Colour */
+	--color-neutral-900: hsl(234, 12%, 34%);
+	--color-neutral-400: hsl(212, 6%, 44%);
+	--color-neutral-100: hsl(0, 0%, 100%);
+
+	/* Font Size */
+	--text-size-small: 0.85rem;
+	/* --text-size-base: 1rem; */
+	--text-size-lg: 1.125rem;
+	--text-size-xl: 1.25rem;
+	--text-size-2xl: 1.5rem;
+	--text-size-3xl: 1.875rem;
+	--text-size-4xl: 2.25rem;
+	--text-size-5xl: 3rem;
+}

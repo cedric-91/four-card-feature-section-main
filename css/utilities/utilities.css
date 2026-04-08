@@ -1,0 +1,4 @@
+@utility container {
+	@apply max-w-6xl;
+	margin-inline: auto;
+}
