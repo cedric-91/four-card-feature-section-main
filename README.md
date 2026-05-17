@@ -57,15 +57,18 @@ Below are snippets of my initial thoughs at first, and the end result.
 
 My First Solution:
 
-````html
+```html
 <article class="container">
 	<section></section>
 	<section></section>
 	<section></section>
 	<section></section>
 </article>
+```
 
-The End Result: ```html
+The End Result:
+
+```html
 <article class="container">
 	<section></section>
 	<div class="wrapper">
@@ -74,7 +77,7 @@ The End Result: ```html
 	</div>
 	<section></section>
 </article>
-````
+```
 
 ### Continued development
 
