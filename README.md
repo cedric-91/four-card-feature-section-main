@@ -76,8 +76,6 @@ The End Result: ```html
 </article>
 ````
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Will continue to learn more on structuring html, and using the correct html elements to define the context.
